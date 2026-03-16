@@ -8,10 +8,15 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Import the required Python libraries such as pandas, sklearn, and matplotlib.
+
+2.Load the dataset and check for missing values and data types.
+
+3.Encode categorical variables and select the input features and target variable.
+
+4.Split the dataset into training and testing sets and train the Decision Tree Classifier model.
+
+5.Predict the test data, calculate the accuracy, and display the Decision Tree visualization. 
 
 ## Program:
 ```
