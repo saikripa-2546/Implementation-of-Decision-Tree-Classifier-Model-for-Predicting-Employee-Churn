@@ -103,7 +103,10 @@ plt.show()
 ```
 
 ## Output:
-
+![Dataset](s1.png)
+![Info](s2.png)
+![Accuracy](s3.png)
+![Decision Tree](s4.png)
 
 
 ## Result:
